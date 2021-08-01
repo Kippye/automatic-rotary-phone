@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ChainedLibconfigExample",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ChainedLibconfigExample::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ChainedLibconfigExample-Debug-cd04a778aa0fa0a75aa7.json",
+					"name" : "ChainedLibconfigExample",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Remoa/Documents/BlurEngine/ARP development/include/libconfig/contrib/chained/examples/out/build/x64-Debug",
+		"source" : "C:/Users/Remoa/Documents/BlurEngine/ARP development/include/libconfig/contrib/chained/examples"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

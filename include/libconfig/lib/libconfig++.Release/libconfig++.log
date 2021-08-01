@@ -1,0 +1,15 @@
+﻿  grammar.c
+  libconfig.c
+  scanctx.c
+  scanner.c
+  strbuf.c
+  strvec.c
+  util.c
+  wincompat.c
+  libconfigcpp.cc
+     Creating library C:\Users\Remoa\Documents\BlurEngine\blue development\Release\libconfig++.lib and object C:\Users\Remoa\Documents\BlurEngine\blue development\Release\libconfig++.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 474 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  libconfig++.vcxproj -> C:\Users\Remoa\Documents\BlurEngine\blue development\Release\libconfig++.dll
